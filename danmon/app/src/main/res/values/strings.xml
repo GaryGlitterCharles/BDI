@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">danmon</string>
+    <string name="please_enter_password">Please Enter Password</string>
+    <string name="please_enter_email_id">Please Enter Email Id</string>
+    <string name="please_enter_user_name">Please Enter User Name</string>
+    <string name="please_enter_user_type">Please Enter User Type</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="have_an_account">Have an Account?</string>
+    <string name="danmon">Danmon</string>
+</resources>
